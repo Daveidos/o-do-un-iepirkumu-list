@@ -1,1 +1,1 @@
-To-do un iepirkumu saraksts
+To-do un iepirkumu list
